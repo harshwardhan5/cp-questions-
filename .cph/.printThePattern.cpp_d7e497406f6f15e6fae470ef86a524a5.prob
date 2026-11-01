@@ -1,0 +1,1 @@
+{"name":"Local: printThePattern","url":"/Users/kharshwardhan/Documents/Learning /printThePattern.cpp","tests":[{"id":1793366785424,"input":"3","output":"1\n2 3\n6 5 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kharshwardhan/Documents/Learning /printThePattern.cpp","group":"local","local":true}
