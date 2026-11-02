@@ -1,0 +1,10 @@
+# macOS debug symbols
+*.dSYM/
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# IDE files
+.vscode/
